@@ -33,7 +33,7 @@ Antes de comenzar, asegúrate de tener instalado:
 ## Instrucciones de instalación
 
 1. **Clona el repositorio**
-- [XAMPP](https://github.com/china153/Proyecto-Fundacion.git)
+[Repositorio](https://github.com/china153/Proyecto-Fundacion.git)
   
    
    O descarga el repositorio como archivo ZIP y extráelo.
