@@ -80,7 +80,7 @@ Funcionamiento de:
 
 
 - Registro de usuario  
-   ![Registro de usuario](Cimg-funcionamiento/Registro-usuario.png)
+   ![Registro de usuario](img-funcionamiento/Registro.png)
 
 - Panel de administrador  
    ![Panel de administrador](img-funcionamiento/Panel-Admi.png)
