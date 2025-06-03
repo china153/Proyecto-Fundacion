@@ -35,7 +35,7 @@ Antes de comenzar, asegúrate de tener instalado:
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/usuario/proyecto-ong.git
+   git clone https://github.com/china153/Proyecto-Fundacion.git
    ```
 
    O descarga el repositorio como archivo ZIP y extráelo.
