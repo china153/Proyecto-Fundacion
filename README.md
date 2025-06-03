@@ -80,16 +80,16 @@ Funcionamiento de:
 
 
 - Registro de usuario  
-   ![Registro de usuario](Cimg-funcionamiento\Registro-usuario.png)
+   ![Registro de usuario](Cimg-funcionamiento/Registro-usuario.png)
 
 - Panel de administrador  
-   ![Panel de administrador](img-funcionamiento\Panel-Admi.png)
+   ![Panel de administrador](img-funcionamiento/Panel-Admi.png)
 
 - Inscripción a eventos
-   ![Eventos](img-funcionamiento\Inscripcion-eventos.png)
+   ![Eventos](img-funcionamiento/Inscripcion-eventos.png)
 
 - Dashboard de métricas
-   ![Métricas](img-funcionamiento\Metricas.png)
+   ![Métricas](img-funcionamiento/Metricas.png)
 
 ## Mapa de navegación
 
