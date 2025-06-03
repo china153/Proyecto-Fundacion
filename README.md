@@ -12,7 +12,7 @@ Esta aplicación permite a las fundaciones organizar eventos, registrar voluntar
 - Gestión de eventos comunitarios (crear, consultar, inscribirse)
 - Registro de contribuciones 
 - Asociación de voluntarios a eventos con historial visible
-- Dashboards con métricas de participación (solo para administradores)
+- Dashboards con métricas de participación 
 - Diseño responsivo adaptable a dispositivos móviles
 
 ## Tecnologías utilizadas
@@ -20,7 +20,7 @@ Esta aplicación permite a las fundaciones organizar eventos, registrar voluntar
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** PHP
 - **Base de datos:** MySQL
-- **Frameworks/librerías:** Chart.js, Bootstrap
+- **Frameworks/librerías:** Chart.js
 - **Control de versiones:** Git + GitHub
 
 ##  Requisitos previos
@@ -33,14 +33,12 @@ Antes de comenzar, asegúrate de tener instalado:
 ## Instrucciones de instalación
 
 1. **Clona el repositorio**
-
-   ```bash
-   git clone https://github.com/china153/Proyecto-Fundacion.git
-   ```
-
+- [XAMPP](https://github.com/china153/Proyecto-Fundacion.git)
+  
+   
    O descarga el repositorio como archivo ZIP y extráelo.
 
-2. **Coloca el proyecto en tu servidor local**
+3. **Coloca el proyecto en tu servidor local**
 
    Copia la carpeta del proyecto en el directorio `htdocs` de XAMPP:
 
@@ -48,23 +46,13 @@ Antes de comenzar, asegúrate de tener instalado:
    C:/xampp/htdocs/proyecto-ong
    ```
 
-3. **Importa la base de datos**
+4. **Importa la base de datos**
 
    - Abre `phpMyAdmin` desde el panel de XAMPP.
    - Crea una base de datos (por ejemplo, `tsito1`).
    - Importa el script de base de datos ubicado en:  
      `C:\xampp\htdocs\fundacionC\tsito1.sql`
 
-4. **Configura la conexión a la base de datos**
-
-   Edita el archivo `config/conexion.php` y actualiza las credenciales según tu entorno local:
-
-   ```php
-   $host = "localhost";
-   $user = "root";
-   $pass = "";
-   $db   = "tsito1";
-   ```
 
 5. **Ejecuta la aplicación**
 
